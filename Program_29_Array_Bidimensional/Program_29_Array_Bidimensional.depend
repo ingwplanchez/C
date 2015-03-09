@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1350009607 source:c:\documents and settings\james marshall\escritorio\programas_c\program_29_array_bidimensional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

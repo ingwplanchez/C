@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1349896972 source:c:\documents and settings\james marshall\escritorio\programas_c\program_22_getchar_putchar\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1349838844 source:c:\documents and settings\james marshall\escritorio\programas_c\program_18_suma_de_numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+

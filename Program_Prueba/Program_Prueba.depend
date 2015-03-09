@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1350273224 source:c:\documents and settings\james marshall\escritorio\programas_c++\program_prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1350275981 source:c:\documents and settings\james marshall\escritorio\programas_c\program_prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1349541454 source:c:\documents and settings\james marshall\escritorio\programas_c\program_01_int\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1366462196 source:d:\mis_programas\programas_c\program_01_int\int.c
+	<stdio.h>
+	<stdlib.h>
+
